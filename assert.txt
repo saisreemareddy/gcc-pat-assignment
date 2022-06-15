@@ -4,7 +4,7 @@
 ./gcc/testsuite/ada/acats/tests/c3/c354002.a:83
 ./gcc/testsuite/ada/acats/tests/c3/c354003.a:23
 ./gcc/testsuite/ada/acats/tests/c3/c391002.a:20
-./gcc/testsuite/ada/acats/tests/c3/c392004.a:11
+./gcc/testsuite/ada/acats/tests/c3/c392004.a:10
 ./gcc/testsuite/ada/acats/tests/c3/c3a0005.a:2
 ./gcc/testsuite/ada/acats/tests/c3/c3a0007.a:2
 ./gcc/testsuite/ada/acats/tests/c4/c410001.a:5
